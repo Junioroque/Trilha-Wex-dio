@@ -1,0 +1,15 @@
+/workspaces/Trilha-Wex-dio/bin/Debug/net8.0/Trilha-Wex-dio
+/workspaces/Trilha-Wex-dio/bin/Debug/net8.0/Trilha-Wex-dio.deps.json
+/workspaces/Trilha-Wex-dio/bin/Debug/net8.0/Trilha-Wex-dio.runtimeconfig.json
+/workspaces/Trilha-Wex-dio/bin/Debug/net8.0/Trilha-Wex-dio.dll
+/workspaces/Trilha-Wex-dio/bin/Debug/net8.0/Trilha-Wex-dio.pdb
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.AssemblyInfoInputs.cache
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.AssemblyInfo.cs
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.csproj.CoreCompileInputs.cache
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.sourcelink.json
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.dll
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/refint/Trilha-Wex-dio.dll
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.pdb
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/Trilha-Wex-dio.genruntimeconfig.cache
+/workspaces/Trilha-Wex-dio/obj/Debug/net8.0/ref/Trilha-Wex-dio.dll
